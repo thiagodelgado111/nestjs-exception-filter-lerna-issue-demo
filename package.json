@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "start": "lerna run start:dev --scope exception-filter-demo-app --stream"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
